@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>如何用开源系统moodle搭建学校的管理系统LSM</title>
-    <url>/2024/05/05/%E5%A6%82%E4%BD%95%E7%94%A8%E5%BC%80%E6%BA%90%E7%B3%BB%E7%BB%9Fmoodle%E6%90%AD%E5%BB%BA%E5%AD%A6%E6%A0%A1%E7%9A%84%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FLSM/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>2024</category>
-      </categories>
-      <tags>
-        <tag>开源</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2024/05/04/hello-world/</url>
     <content><![CDATA[]]></content>
@@ -21,5 +10,41 @@
       <tags>
         <tag>你为什么贫穷</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>flutter能行</title>
+    <url>/2024/05/06/flutter/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>有个地方叫右玉</title>
+    <url>/2024/05/06/%E5%8F%B3%E7%8E%89/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Power Platform 可以的</title>
+    <url>/2024/05/09/Power-Platform/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>如何用开源系统moodle搭建学校的管理系统LSM</title>
+    <url>/2024/05/05/Moodle/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>2024</category>
+      </categories>
+      <tags>
+        <tag>开源</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>DevOps</title>
+    <url>/2024/05/21/DevOps/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>dengbao</title>
+    <url>/2024/05/21/dengbao/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
